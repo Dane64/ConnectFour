@@ -6,7 +6,7 @@
 ## How to play:
  <kbd>Dpad</kbd> - Selection \
  <kbd>Cross</kbd> - Select \
- <kbd>Circle</kbd> - Return \
+ <kbd>Circle</kbd> - Return
 
 ## Screenshots
 <img src="Screenshots/MainMenu.png"><br>
