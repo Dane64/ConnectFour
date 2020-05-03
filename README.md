@@ -24,6 +24,4 @@
 
 ## Special Thanks to:
 
-Vitadev Package manager for releasing the SDK
-captaincrunch80 <http://opengameart.org/users/captaincrunch80> for publishing/sharing .ogg sounds
-I would like to thank the developers of Vita3K to help me create my content at a faster pace.
+KeithGalli - Best explanation I could find on implementing the Minimax algorithm
